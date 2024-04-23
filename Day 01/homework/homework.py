@@ -1,13 +1,5 @@
 name = "irakli"
 surname = "gegia"
-first = "is"
-age = "11"
-second = "years"
-third = "old."
-pronoun = "he"
-fourth = "lives"
-fifth = "in"
+age = 11
 country = "georgia,"
-sixth = "in"
-seventh = "martvili."
-print (name + " " + surname + " " + first + " " + second + " " + third + " " + pronoun + " " + fourth + " " + fifth + " " + country + " " + sixth + " " + seventh)
+print (name + " " + surname + " " + "is" + " " + str(age) + " " + "years old" + " " +  "he lives in martvili"  + " " + country)
