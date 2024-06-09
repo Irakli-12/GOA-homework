@@ -262,5 +262,6 @@ left(180)
 forward(30)
 left(60)
 forward(23)
-
+penup()
+goto(300, 200)
 exitonclick()
